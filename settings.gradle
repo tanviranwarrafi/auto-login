@@ -1,0 +1,2 @@
+rootProject.name='Auto Login Using Session'
+include ':app'
